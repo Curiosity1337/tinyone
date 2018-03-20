@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="97aabbcc-4ec9-41e7-ad6a-df2d5f8a3c73" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.less" afterPath="$PROJECT_DIR$/css/style.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/style.js" afterPath="$PROJECT_DIR$/js/style.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -215,7 +211,7 @@
       <workItem from="1519494855080" duration="1338000" />
       <workItem from="1519751956350" duration="15000" />
       <workItem from="1520957511483" duration="687000" />
-      <workItem from="1521537513853" duration="5409000" />
+      <workItem from="1521537513853" duration="5516000" />
     </task>
     <task id="LOCAL-00001" summary="favicon">
       <created>1519067281714</created>
@@ -287,11 +283,18 @@
       <option name="project" value="LOCAL" />
       <updated>1519494993956</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="slider">
+      <created>1521543382326</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1521543382326</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58444000" />
+    <option name="totallyTimeSpent" value="58551000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -335,7 +338,8 @@
     <MESSAGE value="end of main info container" />
     <MESSAGE value="all" />
     <MESSAGE value="animation" />
-    <option name="LAST_COMMIT_MESSAGE" value="animation" />
+    <MESSAGE value="slider" />
+    <option name="LAST_COMMIT_MESSAGE" value="slider" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
