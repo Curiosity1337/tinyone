@@ -4,9 +4,6 @@ body {
   width: 100%;
   margin: 0;
 }
-.max-width {
-  max-width: 1040px;
-}
 .icon {
   font-size: 50px;
   margin-right: 30px;
@@ -177,4 +174,8 @@ footer {
   .max-width {
     margin: auto;
   }
+}
+.max-width {
+  max-width: 1040px;
+  margin: auto;
 }

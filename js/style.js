@@ -6,13 +6,4 @@ $(document).ready(function () {
        $('.icon-link').hide();
        $('.download-button').show();
    });
-
-    $('header').show('slide',1000);
-    $('.inspire').show('slide',{direction: 'right'},1000);
-    $('.features').show('blind', 1000);
-
-
-
-
-
 });
